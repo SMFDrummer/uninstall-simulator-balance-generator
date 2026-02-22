@@ -70,7 +70,7 @@ This generates a valid `balance.dat` file in the current directory.
 
 - balance.cpp — core generator implementation
 - README.md — documentation
-- balance.kt — kotlin implementation
+- Balance.kt — kotlin implementation
 
 ---
 
